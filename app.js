@@ -1,11 +1,3 @@
-//
-// admin-shreyansh
-// Test123
-// mongo "mongodb+srv://cluster0.ynkro.mongodb.net/<dbname>" --username admin-shreyansh
-// mongodb://admin-shreyansh:Test123@cluster0-shard-00-00.ynkro.mongodb.net:27017,cluster0-shard-00-01.ynkro.mongodb.net:27017,cluster0-shard-00-02.ynkro.mongodb.net:27017/todolistDB?ssl=true&replicaSet=atlas-uayq94-shard-0&authSource=admin&retryWrites=true&w=majority
-// https://shrouded-inlet-71073.herokuapp.com/
-
-
 //requiring all the necessary modules for the server.
 const express = require("express");
 const bodyParser = require("body-parser");
